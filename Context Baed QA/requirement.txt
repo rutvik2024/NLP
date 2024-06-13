@@ -1,0 +1,6 @@
+pytorch-accelerated
+datasets 
+transformers 
+evaluate
+torchmetrics
+tqdm
